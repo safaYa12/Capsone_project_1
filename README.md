@@ -14,7 +14,7 @@ This project is designed to simulate real-world offensive and defensive security
 ## ✅ Exercises Covered
 
 ### 1️⃣ Vulnerability Scanning & Reporting
-- Installed and configured **OpenVAS / Nessus Essentials** on a Linux machine.
+- Installed and configured  **Nessus Essentials** on a Linux machine.
 - Performed a full vulnerability scan targeting localhost.
 - Documented discovered vulnerabilities and severity levels.
 - Researched and recommended remediation steps.
@@ -26,7 +26,7 @@ This project is designed to simulate real-world offensive and defensive security
 - Provided clear examples of how attackers use these methods.
 
 ### 3️⃣ Sysinternals Tools & Malware Static Analysis
-- Used **TCPView** to monitor and document live network connections.
+- Used **ProcMon , Process Explorer , Autorun** to monitor and document live network connections.
 - Audited weak passwords using **L0phtCrack**.
 - Created a controlled educational malware specimen with **JPS VirusMaker** (safe VM only).
 - Analyzed the malware’s PE header with **PEiD** to identify sections, entropy, and imports.
@@ -44,7 +44,7 @@ This project is designed to simulate real-world offensive and defensive security
 
 | Tool             | Purpose                                     |
 |------------------|---------------------------------------------|
-| **OpenVAS/Nessus Essentials** | Vulnerability scanning & assessment |
+| **Nessus Essentials** | Vulnerability scanning & assessment |
 | **TCPView**      | Monitor active network connections          |
 | **L0phtCrack**   | Password auditing & strength testing        |
 | **JPS VirusMaker** | Generate safe test malware for analysis    |
